@@ -1,0 +1,22 @@
+---
+# user info
+user_name: okutani
+# openssl passwd -salt SALT -1 okutani $1$SALT$K0JOSV6v/F9tXjfsL9k9I.
+user_pass: $1$SALT$K0JOSV6v/F9tXjfsL9k9I.
+
+# home path
+home_path: /home/vagrant
+
+# nginx
+nginx_rootpath: /var/www/project_name/public
+# nginx_rootpath: /usr/share/nginx/html
+server_hostname: server.example.com
+
+# databases
+database_name: okutani
+database_user: okutani
+# openssl passwd -salt SALT -1 okutani $1$SALT$K0JOSV6v/F9tXjfsL9k9I.
+database_pass: $1$SALT$K0JOSV6v/F9tXjfsL9k9I.
+
+# locale
+locale: ja_JP.UTF-8

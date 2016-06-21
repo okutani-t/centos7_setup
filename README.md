@@ -10,7 +10,7 @@ Setup CentOS7 environment for Vagrant. Installs nginx, PostgreSQL, redis, MongoD
 # - # connection: local
 # + connection: local
 
-$ git clone https://github.com/okutani-t/centos7_setup.git
+$ git clone --recursive https://github.com/okutani-t/centos7_setup.git
 $ cd centos7_setup
 $ vagrant up
 

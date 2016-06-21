@@ -1,0 +1,39 @@
+[submodule "roles/common"]
+	path = roles/common
+	url = git@github.com:okutani-t/ansible-common.git
+[submodule "roles/firewall"]
+	path = roles/firewall
+	url = git@github.com:okutani-t/ansible-firewall.git
+[submodule "roles/postgres"]
+	path = roles/postgres
+	url = git@github.com:okutani-t/ansible-postgres.git
+[submodule "roles/sqlite"]
+	path = roles/sqlite
+	url = git@github.com:okutani-t/ansible-sqlite.git
+[submodule "roles/redis"]
+	path = roles/redis
+	url = git@github.com:okutani-t/ansible-redis.git
+[submodule "roles/nodejs"]
+	path = roles/nodejs
+	url = git@github.com:okutani-t/ansible-nodejs.git
+[submodule "roles/nginx"]
+	path = roles/nginx
+	url = git@github.com:okutani-t/ansible-nginx.git
+[submodule "roles/mongodb"]
+	path = roles/mongodb
+	url = git@github.com:okutani-t/ansible-mongodb.git
+[submodule "roles/php"]
+	path = roles/php
+	url = git@github.com:okutani-t/ansible-php.git
+[submodule "roles/php-fpm"]
+	path = roles/php-fpm
+	url = git@github.com:okutani-t/ansible-php-fpm.git
+[submodule "roles/ruby"]
+	path = roles/ruby
+	url = git@github.com:okutani-t/ansible-ruby.git
+[submodule "roles/rubyonrails"]
+	path = roles/rubyonrails
+	url = git@github.com:okutani-t/ansible-rubyonrails.git
+[submodule "roles/golang"]
+	path = roles/golang
+	url = git@github.com:okutani-t/ansible-golang.git

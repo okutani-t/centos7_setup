@@ -4,21 +4,15 @@
   become: True
   roles:
     - common
-    - devtools
     - firewall
-    - vim
-    - git
-    - imagemagick
-    # - mariadb
     - postgres
     - mongodb
     - redis
     - sqlite
     - nginx
-    - golang
     - nodejs
     - ruby
     - rubyonrails
     - php
-    - composer
     - php-fpm
+    - golang

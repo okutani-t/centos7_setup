@@ -37,3 +37,6 @@
 [submodule "roles/golang"]
 	path = roles/golang
 	url = git@github.com:okutani-t/ansible-golang.git
+[submodule "roles/phantomjs"]
+	path = roles/phantomjs
+	url = git@github.com:okutani-t/ansible-phantomjs.git

@@ -16,3 +16,4 @@
     - php
     - php-fpm
     - golang
+    - phantomjs
